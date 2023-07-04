@@ -26,3 +26,4 @@ router.post("/delete-user/:id", postDeleteUser); //goi ham ben controller
 router.post("/delete-user", postHandleRemoveUser); //goi ham ben controller
 
 module.exports = router;
+
